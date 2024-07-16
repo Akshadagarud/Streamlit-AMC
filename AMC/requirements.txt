@@ -1,0 +1,7 @@
+streamlit
+supabase
+pandas
+chardet
+st_supabase_connection
+datetime
+io
